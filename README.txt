@@ -8,7 +8,10 @@ Coding progress
 HTML
 CSS
 JavaScript
+Vinalla JavaScript
 Bootstrap
 SCSS
 React Js
 Angular
+
+Added Vinalla javascript right below JavaScript..
